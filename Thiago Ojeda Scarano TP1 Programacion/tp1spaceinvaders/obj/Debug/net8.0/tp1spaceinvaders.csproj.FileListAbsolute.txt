@@ -1,0 +1,14 @@
+C:\Users\Thiago\Desktop\Thiago Ojeda Scarano TP1 Programacion\tp1spaceinvaders\bin\Debug\net8.0\tp1spaceinvaders.exe
+C:\Users\Thiago\Desktop\Thiago Ojeda Scarano TP1 Programacion\tp1spaceinvaders\bin\Debug\net8.0\tp1spaceinvaders.deps.json
+C:\Users\Thiago\Desktop\Thiago Ojeda Scarano TP1 Programacion\tp1spaceinvaders\bin\Debug\net8.0\tp1spaceinvaders.runtimeconfig.json
+C:\Users\Thiago\Desktop\Thiago Ojeda Scarano TP1 Programacion\tp1spaceinvaders\bin\Debug\net8.0\tp1spaceinvaders.dll
+C:\Users\Thiago\Desktop\Thiago Ojeda Scarano TP1 Programacion\tp1spaceinvaders\bin\Debug\net8.0\tp1spaceinvaders.pdb
+C:\Users\Thiago\Desktop\Thiago Ojeda Scarano TP1 Programacion\tp1spaceinvaders\obj\Debug\net8.0\tp1spaceinvaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Thiago Ojeda Scarano TP1 Programacion\tp1spaceinvaders\obj\Debug\net8.0\tp1spaceinvaders.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Thiago Ojeda Scarano TP1 Programacion\tp1spaceinvaders\obj\Debug\net8.0\tp1spaceinvaders.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Thiago Ojeda Scarano TP1 Programacion\tp1spaceinvaders\obj\Debug\net8.0\tp1spaceinvaders.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Thiago Ojeda Scarano TP1 Programacion\tp1spaceinvaders\obj\Debug\net8.0\tp1spaceinvaders.dll
+C:\Users\Thiago\Desktop\Thiago Ojeda Scarano TP1 Programacion\tp1spaceinvaders\obj\Debug\net8.0\refint\tp1spaceinvaders.dll
+C:\Users\Thiago\Desktop\Thiago Ojeda Scarano TP1 Programacion\tp1spaceinvaders\obj\Debug\net8.0\tp1spaceinvaders.pdb
+C:\Users\Thiago\Desktop\Thiago Ojeda Scarano TP1 Programacion\tp1spaceinvaders\obj\Debug\net8.0\tp1spaceinvaders.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\Thiago Ojeda Scarano TP1 Programacion\tp1spaceinvaders\obj\Debug\net8.0\ref\tp1spaceinvaders.dll
